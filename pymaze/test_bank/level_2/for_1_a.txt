@@ -1,0 +1,15 @@
+digits = '0123456789’
+result = 0
+for digit in digits:    
+	result = result + int(digit)print(result)
+
+What will be printed above?
+
+A: 45                        
+
+B: '0123456789’
+
+
+
+
+

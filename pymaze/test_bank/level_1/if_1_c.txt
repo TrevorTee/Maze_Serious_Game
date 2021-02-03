@@ -1,0 +1,16 @@
+height = 175
+if height >= 190:
+    print('tall')
+elif height >= 150:
+    Print('medium')
+else:
+    print('short')
+
+
+what will be printed out above?
+
+A: short
+
+B: tall
+
+C: medium

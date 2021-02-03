@@ -1,0 +1,15 @@
+a = True
+b = False
+if a and b:
+    print('True')
+else:
+    print('False')
+
+what will be printed out above?
+
+A: False
+
+B: Null
+
+C: True
+

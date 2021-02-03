@@ -1,0 +1,15 @@
+s = 12
+for i in range(5):
+    s = s+i
+
+print(s)
+
+what will be printed above?
+
+A. 12
+
+B. 27
+
+C. 13
+
+D. 22

@@ -1,0 +1,16 @@
+s = 'yesterday'
+i = 1
+for char in s:
+	i = i+1
+print(i)
+
+
+What will be printed?
+
+A. 1
+
+B. 3
+
+C. 9
+
+D. 10

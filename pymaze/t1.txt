@@ -1,0 +1,16 @@
+
+Let us see a new example:
+
+age = 16
+if age >= 18:
+    print('adult')
+else:
+    print('kid')
+
+RUN:>>>kid
+
+When we use this "else",we can use "else" to divide 
+the possibilities into two parts and run different 
+operations respectively.
+
+

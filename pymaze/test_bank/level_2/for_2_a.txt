@@ -1,0 +1,15 @@
+repeats = 0
+s = 'abccdeffggh'   
+for i in range(len(s) - 1):
+	if s[i] == s[i + 1]:
+		repeats = repeats + 1
+
+What is the value of the repeats finally?
+
+A: 3  		
+
+B: 4
+
+
+
+

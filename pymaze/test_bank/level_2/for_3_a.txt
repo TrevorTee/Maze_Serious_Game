@@ -1,0 +1,15 @@
+num = 0
+s = 'Happy Anniversary!'
+
+for char in s:
+    if char in 'aeiouAEIOU':
+		num = num + 1
+
+What is the num will be finally?
+
+A: 5		
+
+B: 4
+
+
+

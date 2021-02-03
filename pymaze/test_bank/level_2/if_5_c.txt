@@ -1,0 +1,15 @@
+c=[2,4,8,16,32]
+w=[3,9,27,81,243]
+k=c[i]*w[i+1]
+if i > c[0]:
+    print('too hard for me')
+else:
+    print(k)
+
+Check the code, if i=3, what will be printed ?
+
+A. too hard for me
+
+B. 648
+
+C. 259

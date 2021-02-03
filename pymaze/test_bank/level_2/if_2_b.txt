@@ -1,0 +1,14 @@
+c=['a','b','c','d','e','f']
+i=int(input())
+if i > c.index('d'):
+    print(c[1],c[0],c[3])
+else:
+    print(c[1],c[4],c[3])
+
+Check the code, if you input number "2", what will be printed ?
+
+A. b a d
+
+B. b e d
+
+C. f a b

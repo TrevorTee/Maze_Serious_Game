@@ -1,0 +1,15 @@
+result = ''
+s = 'Happy Anniversary!'
+for char in s:
+	if char in 'aeiouAEIOU':
+		result = result + char
+
+What is the result will be finally?
+
+A: 'aAiea'
+
+B: 5
+
+
+
+

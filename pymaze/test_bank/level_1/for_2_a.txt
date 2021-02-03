@@ -1,0 +1,15 @@
+lst = 'Today'
+for i in range(len(lst)):
+    print(lst[i])
+    
+
+What will be printed out?
+
+A:      B:
+T       0
+o       1
+d       2
+a       3
+y       4
+
+

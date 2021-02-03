@@ -1,0 +1,15 @@
+Sam_age=20
+Sam_height=180
+
+if (Sam_age+Sam_height) > 200:
+    print('good!')
+else:
+    print('nice!')
+
+what will be printed out above?
+
+A: good!
+
+B: nice!
+
+C: excellent!

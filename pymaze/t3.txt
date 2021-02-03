@@ -1,0 +1,18 @@
+The general form of a for loop over index is:
+for order in sequence:
+    body
+
+The order refers to each order of the sequence
+in turn and executes the body of the loop for each character.
+
+For example:
+>>> s = 'Today'
+>>> sequence = range(len(s))
+>>> for order in sequence:
+...     print(char)
+...
+0
+1
+2
+3
+4

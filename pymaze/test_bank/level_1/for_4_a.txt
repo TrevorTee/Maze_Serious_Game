@@ -1,0 +1,15 @@
+for i in range(len(lst) // 2):
+	print(lst[i])
+
+
+
+What will be print out above?
+
+A: the first half of lst
+
+B: the second half of lst
+
+
+
+
+

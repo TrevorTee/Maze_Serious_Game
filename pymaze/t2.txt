@@ -1,0 +1,17 @@
+The general form of a for loop over elements is:
+for variable in str:
+    body
+
+The variable refers to each character of the string
+in turn and executes the body of the loop for each character.
+
+For example:
+>>> s = 'Today'
+>>> for char in s:
+...     print(char)
+... 
+T
+o
+d
+a
+y

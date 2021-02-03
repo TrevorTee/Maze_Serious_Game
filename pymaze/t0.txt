@@ -1,0 +1,16 @@
+Computers can help humans do many things. As 
+a human assistant, the computer needs to make 
+a lot of automatic judgments through restrictions. 
+For example:
+
+age=12
+if age>=18
+    print('adlut')
+
+RUN:>>> adlut
+
+The "if" statement uses a predetermined logic to 
+allow the computer to judge TURE and FALSE, and 
+then execute the subsequent statement based on the 
+judgment result.
+

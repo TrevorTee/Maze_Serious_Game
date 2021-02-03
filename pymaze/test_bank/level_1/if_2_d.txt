@@ -1,0 +1,16 @@
+height = input('height:')
+if height >= 190:
+    print('tall')
+elif height >= 150:
+    print('medium')
+else:
+    print('short')
+
+when we input 185, what will be
+printed out above?
+(Be careful about data type of input)
+
+A: short
+B: tall
+C: medium
+D: Error!
